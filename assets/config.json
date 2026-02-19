@@ -182,8 +182,8 @@
     "sfx": 0.9
   },
   "cross_wall": false,
-  "max_score": 22,
-  "seconds_when_max_score": 40345,
+  "max_score": 0,
+  "seconds_when_max_score": 0,
   "snake": {
     "color": {
       "body": "苔原绿",
