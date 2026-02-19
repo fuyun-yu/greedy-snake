@@ -1,0 +1,9 @@
+.venv/
+config_b.json
+gui_theme.json
+*.spec
+.idea/
+__pycache__/
+*.pyc
+build/
+dist/
